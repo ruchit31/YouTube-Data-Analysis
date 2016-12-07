@@ -12,12 +12,17 @@ Finding total no of vidoes uploaded in each category for given YouTube Dataset u
                      I have installed single node Hadoop cluster on my machine.
                      
                   ![image](https://cloud.githubusercontent.com/assets/11257521/20969121/82d8065e-bc3c-11e6-944c-6fdaeac0f49d.png)
+                  
+                  
 
 
                   ![image](https://cloud.githubusercontent.com/assets/11257521/20969866/c5d52010-bc3f-11e6-8290-2836ddc66251.png)
                   
                   
+                  
+                  
                   ![image](https://cloud.githubusercontent.com/assets/11257521/20969898/e8cbe112-bc3f-11e6-9aae-64196d6008e5.png)
+                  
 
 
 
